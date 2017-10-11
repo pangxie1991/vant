@@ -300,12 +300,61 @@ module.exports = {
               {
                 "path": "/layout",
                 "title": "Layout"
-              }
+              },
+              {
+                "path": "/badge",
+                "title": "Badge"
+              },
+              {
+                "path": "/card",
+                "title": "Card"
+              },
+              {
+                "path": "/icon",
+                "title": "Icon"
+              },
+              {
+                "path": "/image-preview",
+                "title": "ImagePreview"
+              },
+              {
+                "path": "/lazyload",
+                "title": "Lazyload"
+              },
             ]
           },
           {
             "groupName": "Form",
-            "list": []
+            "list": [
+              {
+                "path": "/checkbox",
+                "title": "Checkbox"
+              },
+              {
+                "path": "/field",
+                "title": "Field"
+              },
+              {
+                "path": "/number-keyboard",
+                "title": "NumberKeyboard"
+              },
+              {
+                "path": "/password-input",
+                "title": "PasswordInput"
+              },
+              {
+                "path": "/radio",
+                "title": "Radio"
+              },
+              {
+                "path": "/switch",
+                "title": "Switch"
+              },
+              {
+                "path": "/uploader",
+                "title": "Uploader"
+              }
+            ]
           },
         ]
       }
